@@ -1,0 +1,178 @@
+windowBg - фог голосових повідомлень
+windowFg - голоіний тест
+windowBgOver - зайдній фон для чатів з наведенням миші
+windowBgRipple - зайдній фон для чатів зажатою мишкою
+windowSudTextFg - текст інформації
+windowSudTextFgOver текст інформації з наведенням миші
+windowBoldFg - текст настройок
+windowBoldFgOver - текст найстройок з наведенням миші
+windowBgActive - включені галочки тд
+windowFgActive - текст на аватарках і на вибраних чатах
+windowActiveTextFg - текст онлайн статусу
+windowshadowFg - нижній контур
+shadowFg - контур 
+slideFadeOutBg - перехід між архівом
+slideFadeOutShadowFg - контур між переходом
+attentionButtonFg - при записування голосових повідомленням
+
+
+
+activeButtonBg - головні кнопки
+activeButtonBgOver - головні кнопки з наведенням миші
+activeButtonBgRipple - головні кнопки зажатою мишкою
+activeButtonFg - текст головних кнопок
+activeButtonFgOver - текст головних кнопок з наведенням миші
+activelineFg - лінії при скидання фото
+lightButtonBg - головні кнопки при скидування фото
+lightButtonBgOver - головні кнопки при скидування фото з наведенням миші
+lightButtonBgRipple - головні кнопки при скидування фото зажатою мишкою
+lightButtonFg - текст головних кнопок при скидування фото
+lightButtonFgOver - текст головних кнопок при скидування фото з наведенням миші
+menuBg - лінія для підкручування звуку і лінії вибору швидкості
+menulconFg - скрепка, смайлик, голосові, три крапкі, і тд
+menulconFgOver - скрепка, смайлик, голосові, три крапкі, і тд з наведенням миші
+scrollBarBg - ролік прокруткі чатів
+scrollBarBgOver - ролік прокруткі чатів з наведенням миші
+scrollBg - лінія прокруткі
+scrollBgOver - лінія прокруткі з наведенням миші
+smallCloselconFg - хрестик відділі смайликів
+smallCloselconFgOver - хрестик відділі смайликів з наведенням миші
+placegolderFg - текс "написати повідомлення... " та "пошук"
+placegolderFgActive текс "написати повідомлення... " та "пошук" при активації
+inputBorderFg - нижня лінія ведення пароля
+filternputlnactiveBg - пошук 
+checkboxFg - не влючені кружкі квадрітикі
+sliderBglnactive - нижня лінія підкручування звуку
+sliderBgActive - стрілочкі вибору кольору
+titleShadow - верхній контур
+titleBg - верхня лінія при виключинему тг
+titleBgActive - верхня лінія при включинему тг
+titleButtonBg - фон верхніх трьох кнопок при виключинему тг
+titleButtonFg - верхні три кнопкі
+titleButtonBgOver - фон двох верхніх кнопкок при виключинему тг з наведенням миші
+titleButtonFgOver - верхні дві кнопкі при виключинему тг з наведенням миші
+titleButtonBgActive - фон двох верхніх кнопок при включинему тг
+titleButtonFgActive - дві верхні кнопкі при включинему тг
+titleButtonBgActiveOver - фон двох верхніх кнопок при включинему тг з наведенням миші
+titleButtonFgActiveOver - дві верхні кнопку при включинему тг з наведенням миші
+titleButtonCloseBg - фон верхньої кнопки при виключинему тг
+titleButtonCloseFg - верхня кнопка при виключинему тг
+titleButtonCloseBgOver - фон верхньої кнопки при виключинему тг з наведенням миші
+titleButtonCloseFgOver - верхня кнопка при виключинему тг з наведенням миші
+titleButtonCloseBgActive - фон верхньої кнопки при включинему тг
+titleButtonCloseFgActive - верхня кнопка при включинему тг
+titleButtonCloseBgActiveOver - фон верхньої кнопки при включинему тг з наведенням миші
+titleButtonCloseFgActiveOver - верхня кнопка при включинему тг з наведенням миші
+layerBg - фон при відкриванні всяких вкладок
+cancelIconfg - іконкі хрестика та трьох крапок в найстройках
+cancelIconfgOver - іконкі хрестика та трьох крапок в найстройках з наведенням миші
+boxBg - поле
+boxTextFg - текст поля
+boxTitleFg - титульний текст
+boxSearchBg - пошук ящика
+boxTitleCloseFg - ще один хрестик 
+boxTitleCloseFgOver - ще один хрестик з наведенням миші
+contactsBg - фон в контактах 
+contactsBgOver - фон в контактах з наведенням миші
+contactsNameFg - ім'я контактів 
+contactsStatusFg - статус контактів
+contactsStatusFgOver - статус контактів з наведенням миші
+contactsStatusFOnline - статус контактів які онлайн
+dialogsBg - фон діалогів
+dialogsNameFg - ім'я діалогів
+dialogsChatIconFg - іконкі діалогів
+dialogsDateFg - дата діалогів
+dialogsTextFg - текст діалогів
+dialogsTextFgServise - тест відео діалогів
+dialogsVerifiedIconBg - фон стікера тг діалогів
+dialogsVerifiedIconFg - стікер тг діалогів
+dialogsSentIconFg - значок прочитане та непрочитане повідомлення діалогів
+dialogsUnreadBg - значки непрочитаних повідомлень діалогів
+dialogsUnreadBgMuted - значки непрочитаних повідомлень діалогів мут
+dialogsUnreadFg - цифри непрочитаних повідомлень діалогів
+dialogsBgOver - фон діалогів з наведенням миші 
+dialogsOnlineBadgeFg - статус онлайн діалогів
+dialogsNameFgOver - ім'я діалогів з наведенням миші 
+dialogsChatIconFgOver - іконкі діалогів з наведенням миші 
+dialogsDateFgOver - дата діалогів з наведенням миші 
+dialogsTextFgOver - текст діалогів з наведенням миші 
+dialogsTextFgServiseOver - тест відео діалогів з наведенням миші 
+dialogsVerifiedIconBgOver - фон стікера тг діалогів з наведенням миші
+dialogsVerifiedIconFgOver - стікер тг діалогів з наведенням миші
+dialogsSentIconFgOver - значок прочитане та непрочитане повідомлення діалогів з наведенням миші
+dialogsUnreadBgOver - значки непрочитаних повідомлень діалогів з наведенням миші
+dialogsUnreadBgMutedOver - значки непрочитаних повідомлень діалогів мут з наведенням миші
+dialogsUnreadFgOver - цифри непрочитаних повідомлень діалогів з наведенням миші
+dialogsBgActive - активний фон діалогів
+dialogsNameFgActive - активний ім'я діалогів
+dialogsChatIconFgActive - активний іконкі діалогів
+dialogsDateFgActive - активний дата діалогів
+dialogsTextFgActive - активний текст діалогів
+dialogsTextFgServiseActive - активний тест відео діалогів
+dialogsVerifiedIconBgActive - активний фон стікера тг діалогів
+dialogsVerifiedIconFgActive - активний стікер тг діалогів
+dialogsSentIconFgActive - активний значок прочитане та непрочитане повідомлення діалогів
+dialogsUnreadBgActive - активний значки непрочитаних повідомлень діалогів
+dialogsUnreadBgMutedActive - активний значки непрочитаних повідомлень діалогів мут
+dialogsUnreadFgActive - активний цифри непрочитаних повідомлень діалогів
+dialogsOnlineBadgeFgActive - активний статус онлайн діалогів
+dialogsRippleBg - фон діалогів зажатою мишкою
+dialogsRippleBgActive - активний фон діалогів зажатою мишкою
+searchedBarBg - в пошуку повідомлень лінії
+searchedBarFg - в пошуку повідомлень лінії текст 
+topBarBg - верхня панель
+emojiPanBg - фон вкладці стікерів
+emojiPanCategories - нижній фон вкладці стікерів
+emojiPanHeaderFg - цифр і сначкі вкладці стікерів
+emojiPanHeaderBg - 
+historyTextInFg - текст в чаті 
+historyTextInFgSelected - 
+historyTextOutFg - мій текст в чаті
+historyLinkFg - силка в чаті
+historyLinkOutFg - моя силка в чаті
+historyFileNameInFg - назва файлу при скидуванні
+historyFileNameInOutFg - назва файлу в чаті
+historyOutIconFg - значок прочитане та непрочитане повідомлення в чаті
+historyIconFgInverted - значок прочитане та непрочитане повідомлення на фото в чаті
+historyCallArrowlnFg - значок дзвінка в чаті
+historyCallArrowMissedInFg - значок пропущеного дзвінка в чаті
+historyCallArrowlnOutFg - мій значок дзвінка в чаті
+historyCallArrowMissedOutInFg - мій значок пропущеного дзвінка в чаті
+historyPeer1UserpicBg - верхній колір аватрки
+historyPeerUserpicFg - букв на профілях без аватаркі
+historyScrollBarBg - ролік прокруткі в чаті
+historyScrollBarBgOver - ролік прокруткі в чаті з наведенням миші
+historyScrollBg - лінія прокруткі в чаті  з наведенням миші
+historyScrollBgOver - лінія прокруткі в чаті  з наведенням миші
+msgInBg - фон повідомлення в чаті
+msgOutBg - мій фон повідомлення в чаті
+msgOutBt - нік на май відповідь повідомлення
+msgInShadow - нижня риска на фоні повідомлення в чаті
+msgOutShadow - моя нижня риска на фоні повідомлення в чаті
+msgInDateFg - дата на фоні повідомлення в чаті
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
