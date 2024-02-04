@@ -1,7 +1,7 @@
-windowBg - фог голосових повідомлень
-windowFg - голоіний тест
-windowBgOver - зайдній фон для чатів з наведенням миші
-windowBgRipple - зайдній фон для чатів зажатою мишкою
+windowBg - фон голосових повідомлень
+windowFg - резерний тест
+windowBgOver - зайдній фон для настройок з наведенням миші
+windowBgRipple - зайдній фон для настройок зажатою мишкою
 windowSudTextFg - текст інформації
 windowSudTextFgOver текст інформації з наведенням миші
 windowBoldFg - текст настройок
@@ -150,15 +150,19 @@ msgOutBt - нік на май відповідь повідомлення
 msgInShadow - нижня риска на фоні повідомлення в чаті
 msgOutShadow - моя нижня риска на фоні повідомлення в чаті
 msgInDateFg - дата на фоні повідомлення в чаті
-
-
-
-
-
-
-
-
-
+msgOutDateFg - моя дата на фоні повідомлення в чаті
+msgServiceFg - цифри на фоні дати в чаті
+msgServiceBg - фон дати в чаті 
+msgOutReplyBarColor - моя палка на відповідь на повідомлення в чаті
+msgImgReplyBarColor - текст відповідь стікерами в чаті
+msgDateImgFg - дата на фото в чаті
+msgDateImgBg - фон дати на фото в чаті
+msgFileInBg - значок аудір файл скачки в чаті
+msgFileOutBg - мій значок аудір файл скачки в чаті
+historyComposeAreaBg - нижня панель
+historyComposeIconFg - скрепка смайлик гс
+historyRepleBg теж нижня панель
+mediaPlayerBg - медіа панель
 
 
 
